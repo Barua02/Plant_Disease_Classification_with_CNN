@@ -1,0 +1,6 @@
+numpy==1.26.3
+streamlit==1.30.0
+tensorflow==2.15.0.post1
+
+
+#    C:/Python313/python.exe -m streamlit run app/main.py

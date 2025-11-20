@@ -77,6 +77,16 @@ streamlit run app/main.py
 
 Open the Local URL printed by Streamlit (usually http://localhost:8501) to access the UI.
 
+<img width="1913" height="953" alt="image" src="https://github.com/user-attachments/assets/d6277ccb-9ed0-4490-9201-8e6750f16898" />
+
+---
+
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/7faa47e0-d569-4194-aeb2-3fe7fa42a8a1" />
+
+---
+
+<img width="1912" height="1013" alt="image" src="https://github.com/user-attachments/assets/ffdecf70-3094-4123-be68-908b50e8b830" />
+
 ---
 
 ## Retrain / Replace Model
@@ -125,4 +135,5 @@ model.save('app/trained_model/plant_disease_prediction_savedmodel')
 If you need help running the project or want me to implement any of the suggested improvements, reply here or open an issue.
 
 ---
+
 

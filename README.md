@@ -1,4 +1,5 @@
-# Plant Disease Prediction with CNN
+# Plant Disease Classification with CNN
+
 
 ### Kaggle Dataset : https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
@@ -135,5 +136,6 @@ model.save('app/trained_model/plant_disease_prediction_savedmodel')
 If you need help running the project or want me to implement any of the suggested improvements, reply here or open an issue.
 
 ---
+
 
 
